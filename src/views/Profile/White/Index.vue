@@ -4,6 +4,7 @@
     <h1 class="head">Wasin Jamroensap</h1>
     <h1 class="head">วศิน จำเริญทรัพย์</h1>
     <h2>White (Swai)</h2>
+    <h2>ไวท์ (ไสว)</h2>
   </div>
 </template>
 
